@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages t1
+## 你好我的朋友
 
-You can use the [editor on GitHub](https://github.com/tofdu17cs/tofdu17cs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我也许和你素未谋面，也许认识你，但现在我并不知道。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是一个送给你的域名，只不过DNS的CNAME解析到了Github
 
-### Markdown t2
+书里夹着和这个域名相关的所有账号及密码，你拥有这个域名全部的控制权。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 礼物
 
-- Bulleted
-- List
+毕业礼物我其实很早就开始准备了。最开始的想法是做一个水泥的花盆。可惜我的手不听使唤，虽然买了一大堆材料、模具，但都没做成。剩下的水泥粉还成了有害垃圾。自从垃圾分类推广以来，我也就丢过这一次。
 
-1. Numbered
-2. List
+![img](https://pic1.zhimg.com/v2-18a42d2f4d505ff324266a6df9bed834_b.jpg)
 
-**Bold** and _Italic_ and `Code` text
+![img](https://pic3.zhimg.com/80/v2-62b06943aa7e7eedf08057ff1656d5ca_1440w.jpg)
 
-[Link](url) and ![Image](src)
-```
+后来实在没有办法，只好买点现成的东西了。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+我知道这些礼物只有纪念意义，并无实际用途，所以我买了本和复旦有那么一点点关系的书。如果这本书有幸在10年、20年后在书架上与你重见，希望这本《复旦往事》能唤起属于你和复旦的美好回忆。
 
-### Jekyll Themes t3
+## 寄语
+距离计划的秋天已经过去四个年头，真实的现在即将开花结果，我们将在远方迎来一万个美好的未来。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tofdu17cs/tofdu17cs.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact t4
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
